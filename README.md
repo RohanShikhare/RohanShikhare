@@ -24,5 +24,5 @@ Information Technology student and software developer passionate about building 
 - Full Stack Applications
 
 ## Connect With Me
-- Portfolio: [your link](https://rohan-shikhare-portfolio.vercel.app/)
-- LinkedIn: https://www.linkedin.com/in/rohan-shikhare-0bb2b2402
+- Portfolio: [View](https://rohan-shikhare-portfolio.vercel.app/)
+- LinkedIn: [View](https://www.linkedin.com/in/rohan-shikhare-0bb2b2402)
