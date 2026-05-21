@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Rohan Shikhare 👋
 
-<!--
-**RohanShikhare/RohanShikhare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Information Technology student and software developer passionate about building scalable web applications and continuously improving problem-solving skills.
 
-Here are some ideas to get you started:
+## Tech Stack
+- React.js
+- Next.js
+- Java
+- JavaScript
+- Node.js
+- MySQL
+- MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Focusing On
+- Data Structures & Algorithms
+- Java Backend Development
+- Full Stack Development
+- Placement Preparation
+
+## Projects
+- ISPL-T10
+- Portfolio Website
+- Placement Preparation Portal
+- Full Stack Applications
+
+## Connect With Me
+- Portfolio: [your link](https://rohan-shikhare-portfolio.vercel.app/)
+- LinkedIn: https://www.linkedin.com/in/rohan-shikhare-0bb2b2402
